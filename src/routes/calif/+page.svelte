@@ -91,11 +91,13 @@
   }
 
   .row-image {
+    margin-top: 1.4rem;
     object-fit: contain;
     width: 100%;
     border: 1rem double white;
     margin-left: auto;
     box-sizing: border-box;
+    box-shadow: 0rem 1rem 1rem rgba(0, 0, 0, 30%);
   }
 
   .paragraph {
@@ -112,6 +114,7 @@
     background-color: #475569;
     text-align: justify;
     font-style: italic;
+    box-shadow: 0rem 1rem 1rem rgba(0, 0, 0, 30%);
   }
 
   blockquote .calif {
@@ -129,7 +132,7 @@
 
   h1 {
     margin-top: 0;
-    margin-bottom: 0;
+    margin-bottom: 1re2;
     font-size: 3.5rem;
     border-bottom: 2px solid white;
   }

@@ -86,11 +86,11 @@
   }
 
   .row-image {
-    object-fit: contain;
+    object-fit: cover;
     width: 100%;
-    border: 1rem double white;
     margin-left: auto;
     box-sizing: border-box;
+    box-shadow: 0rem 1rem 1rem rgba(0, 0, 0, 30%);
   }
 
   .paragraph {
@@ -110,6 +110,7 @@
     padding-top: 0.5rem;
     background: linear-gradient(to bottom, transparent, #3f3f46);
     border-bottom: 0.2rem double white;
+    box-shadow: 0rem 1rem 1rem rgba(0, 0, 0, 30%);
   }
 
   blockquote.madhi {
@@ -120,6 +121,7 @@
     background-color: #3f3f46;
     text-align: justify;
     font-style: italic;
+    box-shadow: 0rem 1rem 1rem rgba(0, 0, 0, 30%);
   }
 
   blockquote .madhi {

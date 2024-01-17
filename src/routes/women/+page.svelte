@@ -6,27 +6,35 @@
   <h1>La femme en islam</h1>
   <section>
     <div class="row">
-      <div class="paragraph">
-        Dans le plan divin règlementant la relation entre hommes et femmes,
-        l'islam a assigné une position de dignité et d'honneur à la femme. Un
-        règlement d'une telle bienfaisance est essentiel pour la paix, le
-        confort, le bonheur, la continuation de l'espèce et le progrès. Le Saint
-        Coran souligne que Dieu, dans Sa sagesse parfaite, a créé toute les
-        espèces par paires et ainsi hommes et femmes ont-ils été créés de la
-        même espèce; comme il est dit:
+      <div style="display: flex; gap: 2rem;">
+        <div class="paragraph" style="flex: 1 1 0">
+          Dans le plan divin règlementant la relation entre hommes et femmes,
+          l'islam a assigné une position de dignité et d'honneur à la femme. Un
+          règlement d'une telle bienfaisance est essentiel pour la paix, le
+          confort, le bonheur, la continuation de l'espèce et le progrès. Le
+          Saint Coran souligne que Dieu, dans Sa sagesse parfaite, a créé toute
+          les espèces par paires et ainsi hommes et femmes ont-ils été créés de
+          la même espèce; comme il est dit:
 
-        <blockquote class="verset">
-          <div>
-            Il vous créa d'un seul être; ensuite de cet être Il fit sa
-            campagne...
-          </div>
-          <div class="author">Le Coran 39:7</div>
-        </blockquote>
+          <blockquote class="verset">
+            <div>
+              Il vous créa d'un seul être; ensuite de cet être Il fit sa
+              campagne...
+            </div>
+            <div class="author">Le Coran 39:7</div>
+          </blockquote>
 
-        <blockquote class="verset">
-          <div>Il a fait pour vous des couples d'entre vous-mêmes...</div>
-          <div class="author">Le Coran 42:12</div>
-        </blockquote>
+          <blockquote class="verset">
+            <div>Il a fait pour vous des couples d'entre vous-mêmes...</div>
+            <div class="author">Le Coran 42:12</div>
+          </blockquote>
+        </div>
+        <img
+          class="row-image"
+          alt=""
+          src="/woman.png"
+          style="flex: 1 1 0; max-width: 20rem;"
+        />
       </div>
       <div class="paragraph">
         L'égalité spirituelle de la femme et de l'homme est a plusieurs reprises
@@ -41,6 +49,22 @@
             et une énorme récompense.
           </div>
           <div class="author">Le Coran 33:36</div>
+        </blockquote>
+      </div>
+      <div class="paragraph">
+        Le plan Divin fournit la preuve de la ssagesse divine dans tout ses
+        aspects. Hommes et femmes sont spirituellement proches l'un de l'autre
+        et sont également les bénéficiaires des faveurs et de la générosité de
+        Dieu, mais leur fonctions ne sont pas identiques. Compte tenu de cette
+        diversité, il y a une diversité correspondant à leurs facultés et
+        capacités respectives. Ceci dest indiqué dans le Coran comme suit:
+
+        <blockquote class="verset">
+          <div>
+            Notre seigneur est Celui Qui a donné à chaque chose sa forme
+            convenable, et l'a guidée ensuite à sa fonction convenable.
+          </div>
+          <div class="author">Le Coran 20:51</div>
         </blockquote>
       </div>
     </div>
@@ -75,11 +99,11 @@
   }
 
   .row-image {
-    object-fit: contain;
+    object-fit: cover;
     width: 100%;
-    border: 1rem double white;
     margin-left: auto;
     box-sizing: border-box;
+    box-shadow: 0rem 1rem 1rem rgba(0, 0, 0, 30%);
   }
 
   .paragraph {
@@ -89,6 +113,8 @@
   }
 
   blockquote.verset {
+    display: flex;
+    flex-direction: column;
     text-align: left;
     font-weight: bold;
     margin-left: 0;
@@ -99,12 +125,14 @@
     padding-top: 0.5rem;
     background: linear-gradient(to bottom, transparent, #86198f);
     border-bottom: 0.2rem double white;
+    box-shadow: 0rem 1rem 1rem rgba(0, 0, 0, 30%);
   }
 
   .author {
     text-align: right;
     font-style: italic;
     font-weight: 100;
+    margin-top: auto;
   }
 
   h1 {
