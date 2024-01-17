@@ -49,9 +49,9 @@
         <h2>Les cinq piliers d'islam</h2>
         <ul>
           <li>
-            <b>La chahada <Icon icon="game-icons:chat-bubble" /></b>
+            <b>La Chahada <Icon icon="game-icons:chat-bubble" /></b>
             <div>
-              La chahada (la profession de la foi) signifie affirmer que l'on
+              La Chahada (la profession de la foi) signifie affirmer que l'on
               croit qu'il n'y a pas d'autre Dieu qu'Allah et que Muhammad est
               son messager.
             </div>

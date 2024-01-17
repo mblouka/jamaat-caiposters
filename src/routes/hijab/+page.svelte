@@ -7,20 +7,25 @@
   <section>
     <div class="row">
       <div style="display: flex; gap: 2rem;">
-        <div class="paragraph" style="flex: 1 1 0">
-          Les musulmans suivent le principe islamique qui vise à encourager les
-          hommes et les femmes à être modestes, respectueux et chastes. Les
-          musulmans et musulmanes essaient de s'habiller de telle sorte à ne pas
-          étaler leur beauté aux yeux de tous, ou à s'exposer indûment. Ainsi,
-          le message que donnent leurs vêtements n'est pas « Je suis disponible,
-          venez tenter votre chance avec moi » mais plutôt « Je ne cherche pas à
-          me faire remarquer. Je ne souhaite pas que l'on me fasse des avances.
-          » Cette attitude a protégé les femmes musulmanes ahmadies de plus d'un
-          criminel tapi dans l'ombre, et leur a permis de vaquer à leurs
-          occupations en toute sécurité. Aussi, le fait qu'elles savent que leur
-          conjoint est modeste et respectueux permet aux femmes ahmadies d'être
-          tranquilles chez elles, n'ayant pas besoin de craindre qu'ils soient
-          séduits par ces femmes qui sont la ruine du mariage des autres.
+        <div class="paragraph" style="flex: 1 1 0;">
+          Les musulmans et les musulmanes suivent le principe islamique qui vise
+          à les encourager à être modestes, respectueux et chastes. Ils essaient
+          de s'habiller de telle sorte à ne pas étaler leur beauté ou à
+          s'exposer indûment. Ainsi, ils vivent la pudeur en paroles et en
+          actions. Les hommes sont d'abord instruits de s'abstenir de regarder
+          les femmes, peu importe leur habillement. Cette attitude protège les
+          femmes et leur permet de vaquer à leurs occupations en toute sécurité.
+
+          <blockquote class="verset">
+            <div>
+              Dis aux croyants de restreindre leurs regards et de préserver
+              leurs parties intimes. Cela est plus pur pour eux... Et dis aux
+              croyantes qu'elles restreignent leurs yeux et veillent sur leurs
+              parties intimes, et elles ne doivent pas exposer leur beauté
+              naturelle et ses parures
+            </div>
+            <div class="author">Le Coran 33:31-32</div>
+          </blockquote>
         </div>
         <img
           class="row-image"
@@ -38,16 +43,14 @@
         <h2>Lajna Imai'Allah</h2>
         <div style="display: flex; gap: 1rem; ">
           <div>
-            Les femmes Ahmadies ont leur propre structure au sein de la Jama'at
-            musulmane Ahmadiyya, entièrement organisée par les femmes
-            elle-mêmes, et dans laquelle elles participent toutes de façon
-            régulière. Dans ce cadre, elles se fixent des objectifs:
-            organisation d'aide humanitaire aux victimes de catastrophes
-            naturelles ou de guerres sur tout le globe terrestre, production de
-            programmes pour notre télévision satellite internationale, visite
-            des malades, aider les gens démunis, éduquer les enfants,
-            organisation des sorties pour les filles, et faire fonctionner les
-            dispensaires médicaux, entre autres.
+            Les femmes Ahmadies tiennent propre structure au sein de la Jama'at
+            musulmane Ahmadiyya, entièrement organisée par elle-mêmes. Dans ce
+            cadre, elles se fixent des objectifs: l'organisation d'aide
+            humanitaire aux victimes de catastrophes naturelles ou de guerres
+            sur tout le globe terrestre, la production de programmes de
+            télévision, visiter des malades, aider les gens démunis, éduquer les
+            enfants, l'organisation des sorties, et faire fonctionner les
+            dispensaires médicaux.
           </div>
           <div>
             <img src="./lajna.png" alt="Lajna Imai'Allah" />
@@ -98,6 +101,29 @@
     text-align: justify;
     height: fit-content;
     font-size: 0.9rem;
+  }
+
+  blockquote.verset {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    font-weight: bold;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 0.5rem;
+    padding-top: 0.5rem;
+    background: linear-gradient(to bottom, transparent, #881337);
+    border-bottom: 0.2rem double white;
+    box-shadow: 0rem 1rem 1rem rgba(0, 0, 0, 30%);
+  }
+
+  .author {
+    text-align: right;
+    font-style: italic;
+    font-weight: 100;
+    margin-top: auto;
   }
 
   h1 {

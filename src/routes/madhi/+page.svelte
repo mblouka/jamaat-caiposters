@@ -22,12 +22,7 @@
         bienveillant de l'islam; un islam qui prône la paix, la fraternité
         globale et la soumission à la volonté de Dieu. Hadrat Mirza Gulam Ahmad
         (que la paix soit sur lui) déclara que l'islam est la religion de
-        l'humanité:
-
-        <blockquote class="verset">
-          La religion du peuple du droit chemin.
-          <div class="author">Le Coran 98:6</div>
-        </blockquote>
+        l'humanité, la religion du peuple du droit chemin.
         <blockquote class="verset">
           <div>
             Et c'est là, la religion qui contient les enseignements qui sont
@@ -42,6 +37,14 @@
         ont pris les rênes de la Jama'at musulmane Ahmadiyya. Le calife actuel
         de la communauté est <b>Hadrat Mirza Masroor Ahmad</b>, qui fut élu en
         2003 et son titre officiel est <b>Khalifa-toul-Massih V.</b>
+      </div>
+
+      <div class="paragraph">
+        Dans l'islam, vous trouverez la paix et la tranquillité du coeur en vous
+        soumettant à la volonté de Dieu. C'est avec cette conviction que la
+        Jama'at musulmane Ahmadiyya a connu une croissance rapide et d'envergure
+        internationale; en effet, la Jama'at existe aujourd'hui dans plus de 200
+        pays et sur tous les continents.
       </div>
     </div>
     <div class="row">
@@ -65,6 +68,7 @@
     color: white;
     position: relative;
     padding: 3rem;
+    padding-top: 2rem;
     box-sizing: border-box;
     height: 100%;
 
@@ -139,7 +143,7 @@
 
   h1 {
     font-size: 3rem;
-    margin-bottom: 3rem;
+    margin-bottom: 2rem;
     line-height: 3rem;
   }
 </style>

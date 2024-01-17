@@ -8,7 +8,7 @@
     <div class="row">
       <div style="display: flex; gap: 2rem;">
         <div class="paragraph" style="flex: 1 1 0">
-          Dans le plan divin règlementant la relation entre hommes et femmes,
+          Dans le plan divin concernant la relation entre hommes et femmes,
           l'islam a assigné une position de dignité et d'honneur à la femme. Un
           règlement d'une telle bienfaisance est essentiel pour la paix, le
           confort, le bonheur, la continuation de l'espèce et le progrès. Le
@@ -39,6 +39,7 @@
       <div class="paragraph">
         L'égalité spirituelle de la femme et de l'homme est a plusieurs reprises
         soulignée dans le Saint coran. Par exemple, il est dit:
+
         <blockquote class="verset">
           <div>
             Les Musulmans et Musulmanes, croyants et croyantes, obéissants et
@@ -52,12 +53,13 @@
         </blockquote>
       </div>
       <div class="paragraph">
-        Le plan Divin fournit la preuve de la ssagesse divine dans tout ses
-        aspects. Hommes et femmes sont spirituellement proches l'un de l'autre
-        et sont également les bénéficiaires des faveurs et de la générosité de
-        Dieu, mais leur fonctions ne sont pas identiques. Compte tenu de cette
-        diversité, il y a une diversité correspondant à leurs facultés et
-        capacités respectives. Ceci dest indiqué dans le Coran comme suit:
+        Le plan Divin fournit la preuve de la sagesse divine dans tous ses
+        aspects. Les hommes et les femmes sont spirituellement proches l'un de
+        l'autre et sont également les bénéficiaires des faveurs et de la
+        générosité de Dieu, mais leurs fonctions ne sont pas identiques. Compte
+        tenu de cette diversité, il y a une diversité correspondant à leurs
+        facultés et capacités respectives. Ceci dest indiqué dans le Coran comme
+        suit:
 
         <blockquote class="verset">
           <div>
