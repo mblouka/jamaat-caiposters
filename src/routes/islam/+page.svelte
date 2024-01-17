@@ -118,6 +118,7 @@
 
   #piliers {
     background: linear-gradient(to bottom, #166534, #052e16);
+    box-shadow: 0rem 1rem 1rem rgba(0, 0, 0, 30%);
     border: 4px double white;
   }
 
@@ -170,6 +171,7 @@
     padding: 1rem;
     background: #166534;
     border-bottom: 0.2rem double white;
+    box-shadow: 0rem 1rem 1rem rgba(0, 0, 0, 30%);
   }
 
   .author {
