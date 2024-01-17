@@ -1,11 +1,19 @@
 <script>
-  export let mode = false;
+  import Qr from "./QR.svelte";
 </script>
 
 <footer>
-  <div class="right">
-    <div class="title">Jama'at musulmane Ahmadiyya</div>
+  <div class="left">
     <div><img class="logo" src="./logo.png" /></div>
+    <div>
+      <div class="title">Jama'at musulmane Ahmadiyya</div>
+      <div style="text-decoration: underline; font-size: 0.8rem;">
+        https://islam-ahmadiyya.org/
+      </div>
+    </div>
+  </div>
+  <div class="right">
+    <Qr />
   </div>
 </footer>
 
@@ -23,11 +31,19 @@
     box-sizing: border-box;
   }
 
+  .left {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+  }
+
   .right {
     display: flex;
     gap: 1rem;
-    text-align: right;
+    align-items: center;
     margin-left: auto;
+    height: 4rem;
+    width: 4rem;
   }
 
   .title {
